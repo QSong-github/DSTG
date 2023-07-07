@@ -46,7 +46,6 @@ Then you will get your results in the DSTG_Result folder.
 
 
 ## Cite
-Song Q, Su J. "DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence." Briefings in bioinformatics. 2021 Sep;22(5):bbaa414.
 
 Please cite our paper if you use this code in your own work:
 
