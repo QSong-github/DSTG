@@ -1,5 +1,8 @@
 # Deconvoluting Spatial Transcriptomics data through Graph-based convolutional networks (DSTG)
 
+[![DOI](https://zenodo.org/badge/523819448.svg)](https://zenodo.org/badge/latestdoi/523819448)
+
+
 This is a TensorFlow implementation of DSTG for decomposing spatial transcriptomics data, which is described in our paper: 
 
 ## Installation
@@ -43,6 +46,7 @@ Then you will get your results in the DSTG_Result folder.
 
 
 ## Cite
+Song Q, Su J. "DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence." Briefings in bioinformatics. 2021 Sep;22(5):bbaa414.
 
 Please cite our paper if you use this code in your own work:
 
